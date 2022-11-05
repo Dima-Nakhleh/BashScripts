@@ -8,7 +8,7 @@ prints a message if these two numbers are smaller or greater than 100.
 1. script that reads a temperature in Fahrenheit and converts
 it to Celcius.  
 1.script that finds the largest 10 files in a directory.
-=
+
 **Steps to running the scripts:**
 1. Download this repository.
 1. 
