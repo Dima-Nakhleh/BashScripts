@@ -2,7 +2,7 @@
 
 In this assignment we were asked to write 3 bash scripts
 
->**here are the purpose of each script:**
+**here are the purpose of each script:**
 1. script that collects two numbers from the user and then
 prints a message if these two numbers are smaller or greater than 100.  
 1. script that reads a temperature in Fahrenheit and converts
