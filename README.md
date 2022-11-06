@@ -23,13 +23,21 @@ it to Celcius.
 ---
 2. script #2:
 - The script:
+
+
 [![](https://github.com/Dima-Nakhleh/BashScripts/blob/main/examples/script2.PNG)](httphttps://github.com/Dima-Nakhleh/BashScripts/blob/main/examples/script2.PNG://)
 - running examples:
+
+
 [![](https://github.com/Dima-Nakhleh/BashScripts/blob/main/examples/script2-example.PNG)](http://https://github.com/Dima-Nakhleh/BashScripts/blob/main/examples/script2-example.PNG)
 ---
 3. script #3:
 - The script:
+
+
 [![](https://github.com/Dima-Nakhleh/BashScripts/blob/main/examples/script3.PNG)](httphttps://github.com/Dima-Nakhleh/BashScripts/blob/main/examples/script3.PNG://)
 - running example:
+
+
 [![](https://github.com/Dima-Nakhleh/BashScripts/blob/main/examples/script3-example.PNG)](http://https://github.com/Dima-Nakhleh/BashScripts/blob/main/examples/script3-example.PNG)
 ---
