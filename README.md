@@ -16,3 +16,4 @@ it to Celcius.
 
 **the 3 scripts followed with a run example:**  
 1. 
+1. [![](https://github.com/Dima-Nakhleh/BashScripts/blob/main/examples/script1.PNG)](https://github.com/Dima-Nakhleh/BashScripts/blob/main/examples/script1.PNG)
