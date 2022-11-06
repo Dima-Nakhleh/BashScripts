@@ -1,5 +1,4 @@
- # **Bash Scripts Assignmet**
- # **Bash Scripts Assignmet**
+# **Bash Scripts Assignmet**
 In this assignment we were asked to write 3 bash scripts.  
 
 **Here are the purpose of each script:**
