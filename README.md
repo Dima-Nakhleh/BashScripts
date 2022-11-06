@@ -13,3 +13,6 @@ it to Celcius.
 2. A BashScripts-main directory will be downloaded with 3 scripts included , open Git Bash from this directory.
 3. run the your desired script by using the command ./"script-name".sh
 1. follow the instructions given in each script.
+
+**the 3 scripts followed with a run example:**
+1. 
