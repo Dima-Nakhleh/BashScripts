@@ -14,7 +14,7 @@ it to Celcius.
 3. run the your desired script by using the command ./"script-name".sh
 1. follow the instructions given in each script.
 
-**the 3 scripts followed with a run example:**  
+## **the 3 scripts followed with a run example:**  
 1. script #1:
 - The script:
 [![](https://github.com/Dima-Nakhleh/BashScripts/blob/main/examples/script1.PNG)](https://github.com/Dima-Nakhleh/BashScripts/blob/main/examples/script1.PNG)
