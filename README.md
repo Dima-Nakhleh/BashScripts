@@ -15,13 +15,13 @@ it to Celcius.
 1. follow the instructions given in each script.
 
 ## **the 3 scripts followed with a run example:**  
-1. script #1:
+1. **script #1:**
 - The script:
 [![](https://github.com/Dima-Nakhleh/BashScripts/blob/main/examples/script1.PNG)](https://github.com/Dima-Nakhleh/BashScripts/blob/main/examples/script1.PNG)
 - running examples:
 [![](https://github.com/Dima-Nakhleh/BashScripts/blob/main/examples/script1-example.PNG)](hthttps://github.com/Dima-Nakhleh/BashScripts/blob/main/examples/script1-example.PNGtp://)
 ---
-2. script #2:
+2. **script #2:**
 - The script:
 
 
@@ -31,7 +31,7 @@ it to Celcius.
 
 [![](https://github.com/Dima-Nakhleh/BashScripts/blob/main/examples/script2-example.PNG)](http://https://github.com/Dima-Nakhleh/BashScripts/blob/main/examples/script2-example.PNG)
 ---
-3. script #3:
+3. **script #3:**
 - The script:
 
 
